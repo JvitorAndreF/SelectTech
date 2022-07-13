@@ -1,0 +1,1 @@
+alert("Obrigado pelo acesso. O site estará disponivel a partir do dia 17/07/2022")
